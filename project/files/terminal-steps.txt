@@ -1,0 +1,8 @@
+@jfcm90 ➜ /workspaces/exercise-terminal-challenge (master) $ echo "hello world"
+hello world
+@jfcm90 ➜ /workspaces/exercise-terminal-challenge (master) $ touch terminal-steps.txt
+@jfcm90 ➜ /workspaces/exercise-terminal-challenge (master) $ mkdir project project/files
+@jfcm90 ➜ /workspaces/exercise-terminal-challenge (master) $ mkdir project/files2
+@jfcm90 ➜ /workspaces/exercise-terminal-challenge (master) $ mkdir test
+@jfcm90 ➜ /workspaces/exercise-terminal-challenge (master) $ cp terminal-steps.txt project/files
+@jfcm90 ➜ /workspaces/exercise-terminal-challenge (master) $ rm terminal-steps.txt
